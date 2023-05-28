@@ -1,0 +1,125 @@
+.header {
+        position: center; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: align;
+    background-color: #f2f2f2;
+    width: align;
+    height: 1;
+    padding: 24px, 80px, 24px, 80px;
+    gap: 10px;
+  }
+  .v-symbol {
+    width: 52px;
+    position: absolute;
+    top: 39.5px;
+    left: 21%;
+    height: 7.42px;
+   
+  }
+  .v-symbol-1 {
+    width: 52px;
+    position: absolute;
+    top: 38.5px;
+    left: 30%;
+    height: 7.42px;
+    
+  }
+  
+  
+  
+  .company-name {
+   
+    left: 2%;
+    font-family: "Raleway", sans-serif;
+    font-weight: 900;
+    font-size: 38px;
+    line-height: 45px;
+    letter-spacing: 3%;
+    text-align: center;
+    color: transparent;
+ 
+    background-clip: text;
+    background-image: linear-gradient(180deg, #0096FF 42.14%, #0048FF 96.7%);
+  }
+  .word-component {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #000000;
+    position: absolute;
+    top: 25.5px;
+    left: 15%;
+    width: 61px;
+    height: 19px;
+  }
+  .word-component-1 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #000000;
+    position: absolute;
+    top: 25.5px;
+    left: 25%;
+    width: 61px;
+    height: 19px;
+  }
+  .search-icon {
+    width: 18px;
+    height: 18px;
+    top: 30.5px;
+    left: 75%;
+    background-color: #000000;
+    position: absolute;
+  }
+  .search-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .login-text {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #000000;
+    position: absolute;
+    top: 30.5px;
+    left: 80%;
+    width: 46px;
+    height: 19px;
+  }
+  .circle-2 {
+    width: 50px;
+    height: 16px;
+    top: 50px;
+    left: 90%;
+    position: absolute;
+    border-radius: 50%;
+    padding: 10px 42px;
+    gap: 10px;
+    background: linear-gradient(180deg, #0048FF 0%, #0096FF 100%);
+    top: 19px;
+  }
+  .join-now {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    transform: translate(42px, 10.5px);
+    width: 82px;
+    height: 19px;
+    left: -5%;
+    top: 2px;
+  }
+  
+  
