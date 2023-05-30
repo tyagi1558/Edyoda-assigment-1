@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Deployment
 
-This section has moved here: https://64731603ae27a50e256fe6c7--zingy-snickerdoodle-0010e8.netlify.app/
+Checkout the Website here : https://64731603ae27a50e256fe6c7--zingy-snickerdoodle-0010e8.netlify.app/
 
 ## Available Scripts
 
